@@ -2,7 +2,7 @@
 
 A 3D-printed self-watering plant pot with all of its electronics hidden underneath.
 
-IMPORTANT: This is more like a temporary/fun solution to having to water plants, I do not recommend using this as a permanent solution.
+IMPORTANT: This is more like a temporary/fun solution to having for water plants, I do not recommend using this as a permanent solution.
 
 A small pump fills a hollow channel around the rim of the pot, and the water dribbles onto the soil through a ring of 2.5 mm drip holes. A soil moisture sensor decides when to water. The Arduino, the pump driver and the wiring sit in a snap-shut compartment under the pot, so from the outside it just looks like a pot.
 
